@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/ChristopherCentenera/4900Group1#readme",
   "dependencies": {
-    "mysql": "^2.15.0"
+    "express": "^4.16.3",
+    "mysql": "^2.15.0",
+    "xmlhttprequest": "^1.8.0"
   }
 }
